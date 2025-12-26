@@ -11,7 +11,7 @@ This project establishes a robust, automated Big Data pipeline on the **Microsof
 ---
 
 ## 🏛 Technical Architecture
-
+![Project Architecture](ARCH/ARCH.png)
 The solution is built on four functional pillars:
 
 1. **Orchestration (ADF):** A metadata-driven pipeline that manages schedules and dynamic date parameters.
